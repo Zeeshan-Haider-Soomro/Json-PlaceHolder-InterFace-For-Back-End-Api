@@ -41,7 +41,7 @@ const Hero = () => {
                     <a target='blank' href='https://building-ap-is-from-back-end-express-js-node-js.vercel.app/todos'>/todos</a>
                     <a target='blank' href='https://building-ap-is-from-back-end-express-js-node-js.vercel.app/users'>/users</a>
                 </div>
-                <div>
+                <div className='p-5'>
                     <p>100 posts</p>
                     <p>500 comments</p>
                     <p>100 albums</p>
